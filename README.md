@@ -43,7 +43,7 @@ Before you begin, make sure you have the following installed:
 ## Installation
 You can download the [**repository**](https://github.com/GravelFire/CatsGangBot) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/GravelFire/CatsGangBot.git
+git clone https://github.com/hardim26/CatsGangBot.git
 cd CatsGangBot
 ```
 
